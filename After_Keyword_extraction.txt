@@ -1,0 +1,2 @@
+{'News_title': u'Deep Learning Techniques for Music Generation \u2013 A Survey', 'News_url': 'https://arxiv.org/abs/1709.01620'}
+{'News_title': u'NLP with Deep Learning (Winter 2017)', 'News_url': 'https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6'}
